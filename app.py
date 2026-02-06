@@ -199,6 +199,6 @@ st.markdown("""
     <p>Connect with <strong>Ojonugwa Egwuda</strong> on 
         <a href="https://www.linkedin.com/in/egwudaojonugwa/" target="_blank">LinkedIn</a>
     </p>
-    <small>© 2025 PocketRent | Built with ❤️ using Streamlit & Claude</small>
+    <small>© 2026 PocketRent | Built with ❤️ using Streamlit & Claude</small>
 </div>
 """, unsafe_allow_html=True)
